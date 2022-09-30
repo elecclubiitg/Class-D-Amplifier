@@ -1,2 +1,2 @@
 # Class_D_Amplifier
-This is the official repository of the Class D audio amplifier project of the Electronics Club IITG (Autumn sem 22)
+$step 1 : we will generate a Triangular Wave First .Then using that with the main audio wave we will generate a PWM wave.
