@@ -23,7 +23,7 @@ High-frequency PWM encodes the user's signal, driving MOSFETs with a specialized
 ### Project veterans
 i) Shaun Job   
 ii) Hrishikesh    
-
+iii) J.Spandhan
 &nbsp;
 
 ### TechStacks
